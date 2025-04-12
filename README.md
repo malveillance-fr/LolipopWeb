@@ -23,8 +23,6 @@ Lolipop Web is the browser-based version of the popular Lolipop software, offeri
 - **User-friendly and easy to use** 🤖  
   Whether you're a beginner or an experienced user, Lolipop Web offers a straightforward and simple experience. The design is tailored for ease of use, with a clear layout, user prompts, and easy navigation.
 
-- **Cross-platform support** 📱💻  
-  Being a web-based application, Lolipop Web can be accessed from any device with an internet connection. Whether you're using Windows, Mac, Linux, or a mobile device, you can enjoy all the features of Lolipop Web without worrying about compatibility.
 
 - **Real-time updates and performance tracking** 📊  
   With real-time feedback and updates, users can easily track the progress of their tasks. This allows for a more seamless experience, where you can monitor performance without needing to refresh the page or worry about delays.
@@ -42,6 +40,9 @@ While Lolipop Web is an excellent tool, there are a few limitations to consider:
 - **No offline usage** 🌐  
   As a web-based solution, Lolipop Web requires an active internet connection to function. This might be a disadvantage for users who need to use the software offline or in locations with unreliable internet.
 
+- **Not available on mobile devices** 📱
+  Only available on PC.
+
 
 ## Why Use Lolipop Web? 🌟
 
@@ -50,7 +51,6 @@ Lolipop Web is perfect for users who need the power of Lolipop software but pref
 ### Ideal for:
 
 - **Users without Python**: If you don't have Python installed or don’t want to worry about setting it up, Lolipop Web is the perfect solution.
-- **Mobile users**: Access Lolipop Web from your mobile device and enjoy the same features as on desktop, making it easy to work from anywhere.
 - **Beginners**: With a clean, user-friendly interface, Lolipop Web is great for beginners who want to explore advanced tools without getting overwhelmed by complex setups.
 
 ## Contributing 💡
